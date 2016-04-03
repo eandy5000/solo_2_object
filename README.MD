@@ -1,5 +1,5 @@
 #  Exercise
-## I took this old assignment and added gulp bootstrap sass
+#### I took this old assignment and added gulp bootstrap sass
 For this challenge, I want you to replace the employee Arrays inside of the 'three bugs' challenge with Objects. So replace this code:
 
 ```
